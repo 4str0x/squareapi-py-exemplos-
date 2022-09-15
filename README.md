@@ -1,1 +1,0 @@
-# squareapi-py-exemplos-
